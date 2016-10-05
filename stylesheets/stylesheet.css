@@ -54,10 +54,14 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
+  color: #ffffff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-size: cover;
+  opacity:.9;
+  background-repeat: no-repeat;
+  height:550px;
+  background-image: url('https://c7.staticflickr.com/6/5207/29497126174_742a9f8ddf_k.jpg'); }
 
 @media screen and (min-width: 64em) {
   .page-header {
